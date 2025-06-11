@@ -1,0 +1,2 @@
+rootProject.name = 'socket-programming'
+include 'protocol', 'client', 'server'
